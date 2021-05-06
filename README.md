@@ -46,6 +46,8 @@ scrapy crawl stockhouse
 
 scrapy shell http://house.njhouse.com.cn/stock/houselist/
 
+selector 匹配用 
+
 
 三.其它
 
